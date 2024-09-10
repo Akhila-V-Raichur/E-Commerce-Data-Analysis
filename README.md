@@ -1,7 +1,3 @@
-Here’s the updated README file with the modified Data Source section:
-
----
-
 # E-Commerce Data Analysis
 
 ## Project Overview
